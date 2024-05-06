@@ -35,7 +35,7 @@ This project involves the development of a sentiment prediction model using mach
 
 **4. Execution**:
    - Ensure all required libraries are installed.
-   - Execute the code cells in `sentiment_prediction.ipynb` sequentially to perform data preprocessing, model training, evaluation, and prediction.
+   - Execute the code cells in `Movie Review Prediction (Sentiment).ipynb` sequentially to perform data preprocessing, model training, evaluation, and prediction.
    - The trained model predicts sentiment labels for the test data and saves the predictions in a CSV file named `prediction.csv`.
 
 **5. Results**:
