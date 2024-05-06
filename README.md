@@ -16,8 +16,6 @@ This project involves the development of a sentiment prediction model using mach
 
 6. **Prediction**: Applied the trained model to predict sentiment labels for new, unseen movie reviews.
 
-**Readme File**
-
 **1. Dataset**: 
    - The dataset used in this project is available in CSV format and contains movie reviews along with their corresponding sentiment labels (positive or negative).
 
